@@ -1,0 +1,12 @@
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\bin\Debug\Contact.App.exe.config
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\bin\Debug\Contact.App.exe
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\bin\Debug\Contact.App.pdb
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.csproj.AssemblyReference.cache
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.addContacts.resources
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.Form1.resources
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.Properties.Resources.resources
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.csproj.GenerateResource.cache
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.csproj.CoreCompileInputs.cache
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.exe
+C:\Users\Pars.Tech\Desktop\Contact\Contact.App\obj\Debug\Contact.App.pdb
